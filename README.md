@@ -69,7 +69,7 @@ Key characteristics:
 
 * Recognizing tumors works well.
 * Differentiating benign tumours from malignant tumours is something the models struggle with.
-* Performance on the RSNA dataset always lacks behind performance on the KAU dataset, because in the RSNA dataset, benign tumours are classified as non-cancerous, confusing the models. For the KAU dataset we could decide on our own, to classify benign and malignant tumours both as cancerous
+* Performance on the RSNA dataset always lacks behind performance on the KAU dataset, because in the RSNA dataset, benign tumours are classified as non-cancerous, confusing the models. For the KAU dataset we could decide on our own to classify benign and malignant tumours both as cancerous
 * The best model is the ResNet-50 Model trained on KAU data. 
 
 <img width="900" height="449" alt="grafik" src="https://github.com/user-attachments/assets/5cea72e5-8971-4875-adcd-4ed1ed89a3a9" />
