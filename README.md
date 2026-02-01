@@ -1,17 +1,17 @@
-# 🧬 Breast Cancer Detection – Machine Learning Pipeline
+# Breast Cancer Detection – Machine Learning Pipeline
 
 This repository contains the full workflow for building, evaluating, and comparing machine-learning models for binary breast cancer detection based on structured medical data.
 The project was developed as part of a data-processing and machine-learning assignment and demonstrates a complete ML lifecycle — from preprocessing to model benchmarking and interpretation.
 
 -----
 
-# 💡 Suggestion
+# Suggestion
 
 The whole project is documented in detail in the attached notebook. For more information than in the README please check the notebook.
 
 -----
 
-# 📌 Objectives
+# Objectives
 
 * Build a reproducible data-processing and modeling pipeline for cancer classification.
 * Finetune two different base models and compare their performance.
@@ -19,7 +19,7 @@ The whole project is documented in detail in the attached notebook. For more inf
   
 -----
 
-# 🛢️ Data
+# Data
 
 * Dataset 1: RSNA Screening Mammography
   
@@ -35,7 +35,7 @@ The whole project is documented in detail in the attached notebook. For more inf
   
 -----
 
-# 🧠 Base Models Used
+# Base Models Used
 
 # Model 1
 
@@ -65,7 +65,7 @@ Key characteristics:
   
 -----
 
-# 📊 Results
+# Results
 
 * Recognizing tumors works well.
 * Differentiating benign tumours from malignant tumours is something the models struggle with.
